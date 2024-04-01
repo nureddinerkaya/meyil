@@ -1,2 +1,2 @@
-# meyil
-meyil
+# Mail Gönderici
+Mail göndermeye yarayan bir script
